@@ -1,0 +1,17 @@
+D:\UTT\T.S.U\2-CUATRIMESTRE\PROGRAMACION ORIENTADA A OBJETOS\1 INTERFACES\cDuckHunt\cDuckHunt\bin\Debug\netcoreapp3.1\cDuckHunt.exe
+D:\UTT\T.S.U\2-CUATRIMESTRE\PROGRAMACION ORIENTADA A OBJETOS\1 INTERFACES\cDuckHunt\cDuckHunt\bin\Debug\netcoreapp3.1\cDuckHunt.deps.json
+D:\UTT\T.S.U\2-CUATRIMESTRE\PROGRAMACION ORIENTADA A OBJETOS\1 INTERFACES\cDuckHunt\cDuckHunt\bin\Debug\netcoreapp3.1\cDuckHunt.runtimeconfig.json
+D:\UTT\T.S.U\2-CUATRIMESTRE\PROGRAMACION ORIENTADA A OBJETOS\1 INTERFACES\cDuckHunt\cDuckHunt\bin\Debug\netcoreapp3.1\cDuckHunt.runtimeconfig.dev.json
+D:\UTT\T.S.U\2-CUATRIMESTRE\PROGRAMACION ORIENTADA A OBJETOS\1 INTERFACES\cDuckHunt\cDuckHunt\bin\Debug\netcoreapp3.1\cDuckHunt.dll
+D:\UTT\T.S.U\2-CUATRIMESTRE\PROGRAMACION ORIENTADA A OBJETOS\1 INTERFACES\cDuckHunt\cDuckHunt\bin\Debug\netcoreapp3.1\cDuckHunt.pdb
+D:\UTT\T.S.U\2-CUATRIMESTRE\PROGRAMACION ORIENTADA A OBJETOS\1 INTERFACES\cDuckHunt\cDuckHunt\obj\Debug\netcoreapp3.1\cDuckHunt.Form1.resources
+D:\UTT\T.S.U\2-CUATRIMESTRE\PROGRAMACION ORIENTADA A OBJETOS\1 INTERFACES\cDuckHunt\cDuckHunt\obj\Debug\netcoreapp3.1\cDuckHunt.csproj.GenerateResource.cache
+D:\UTT\T.S.U\2-CUATRIMESTRE\PROGRAMACION ORIENTADA A OBJETOS\1 INTERFACES\cDuckHunt\cDuckHunt\obj\Debug\netcoreapp3.1\cDuckHunt.AssemblyInfoInputs.cache
+D:\UTT\T.S.U\2-CUATRIMESTRE\PROGRAMACION ORIENTADA A OBJETOS\1 INTERFACES\cDuckHunt\cDuckHunt\obj\Debug\netcoreapp3.1\cDuckHunt.AssemblyInfo.cs
+D:\UTT\T.S.U\2-CUATRIMESTRE\PROGRAMACION ORIENTADA A OBJETOS\1 INTERFACES\cDuckHunt\cDuckHunt\obj\Debug\netcoreapp3.1\cDuckHunt.csproj.CoreCompileInputs.cache
+D:\UTT\T.S.U\2-CUATRIMESTRE\PROGRAMACION ORIENTADA A OBJETOS\1 INTERFACES\cDuckHunt\cDuckHunt\obj\Debug\netcoreapp3.1\cDuckHunt.dll
+D:\UTT\T.S.U\2-CUATRIMESTRE\PROGRAMACION ORIENTADA A OBJETOS\1 INTERFACES\cDuckHunt\cDuckHunt\obj\Debug\netcoreapp3.1\cDuckHunt.pdb
+D:\UTT\T.S.U\2-CUATRIMESTRE\PROGRAMACION ORIENTADA A OBJETOS\1 INTERFACES\cDuckHunt\cDuckHunt\obj\Debug\netcoreapp3.1\cDuckHunt.genruntimeconfig.cache
+D:\UTT\T.S.U\2-CUATRIMESTRE\PROGRAMACION ORIENTADA A OBJETOS\1 INTERFACES\cDuckHunt\cDuckHunt\obj\Debug\netcoreapp3.1\cDuckHunt.Properties.Resources.resources
+D:\UTT\T.S.U\2-CUATRIMESTRE\PROGRAMACION ORIENTADA A OBJETOS\1 INTERFACES\cDuckHunt\cDuckHunt\obj\Debug\netcoreapp3.1\cDuckHunt.csproj.AssemblyReference.cache
+D:\UTT\T.S.U\2-CUATRIMESTRE\PROGRAMACION ORIENTADA A OBJETOS\1 INTERFACES\cDuckHunt\cDuckHunt\obj\Debug\netcoreapp3.1\cDuckHunt.GeneratedMSBuildEditorConfig.editorconfig

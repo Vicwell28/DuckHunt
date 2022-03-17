@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\pulga\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\pulga\\.nuget\\packages"
+    ]
+  }
+}
